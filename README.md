@@ -22,7 +22,7 @@ Sistem analisis data delinquency untuk Gellium Finance yang didukung AI. Aplikas
 
 ## 🏗️ Arsitektur Sistem
 
-```mermaid
+```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
 │   User Input    │────▶│   Streamlit     │────▶│   Data Processor│
 │  (Dataset)      │     │   Dashboard     │     │  (Pandas)       │
